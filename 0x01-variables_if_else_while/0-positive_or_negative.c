@@ -8,6 +8,9 @@
  **/
 int main(void)
 {
+	/*
+	 * main - Determine if a number is positive, negative or zero.
+	 */
 	int n;
 
 	srand(time(0));
